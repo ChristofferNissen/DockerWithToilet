@@ -1,0 +1,1 @@
+docker run toiletcontainer $1
